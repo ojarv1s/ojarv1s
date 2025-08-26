@@ -2,7 +2,7 @@
 
 **`Systems Analysis and Development Student`** 
 
-Hi, my name is Leonardo, I living in Brazil and im Systems Analysis and Development Student
+Hi, my name is Leonardo, Im from Brazil and Im Systems Analysis and Development Student
 
 ---
 
