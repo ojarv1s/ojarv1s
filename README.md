@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💻 Leonardo
 
-<!--
-**ojarv1s/ojarv1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Systems Analysis and Development Student`** 
 
-Here are some ideas to get you started:
+Hi, my name is Leonardo, I living in Brazil and im Systems Analysis and Development Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/fastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/mongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+<br />
